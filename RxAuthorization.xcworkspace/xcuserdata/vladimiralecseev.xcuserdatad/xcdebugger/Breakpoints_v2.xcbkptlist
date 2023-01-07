@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E00747D5-7B59-4534-8CCE-2AF972A7C401"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8F93456-3279-4A8A-BC19-94C90698BDD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxAuthorization/PhoneScene/CountryPhoneInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "Root"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "B8F93456-3279-4A8A-BC19-94C90698BDD8 - f73ca4a910cb447"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxAuthorization.Root.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;RxAuthorization.Root&gt;"
+                  moduleName = "RxAuthorization"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimiralecseev/Desktop/RxAuthorization/RxAuthorization/PhoneScene/CountryPhoneInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "B8F93456-3279-4A8A-BC19-94C90698BDD8 - 677653a2212a8842"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxAuthorization.Root.rawValue.getter : Swift.String"
+                  moduleName = "RxAuthorization"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vladimiralecseev/Desktop/RxAuthorization/RxAuthorization/PhoneScene/CountryPhoneInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
